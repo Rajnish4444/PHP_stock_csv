@@ -1,6 +1,6 @@
 <?php
 
 
-require('resources/constant/header.php');
-require('resources/pages/home.php');
-require('resources/constant/footer.php');
+require('constant/header.php');
+require('pages/home.php');
+require('constant/footer.php');
