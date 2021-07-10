@@ -31,7 +31,7 @@ $calc = (object) $result->calcValues();
 ?>
 <div class="col-md-6 offset-md-3 mt-5">
 	
-	<a class="mt-3 d-flex" href="/">Stock Management</a>
+	<a class="mt-3 d-flex" href="/">Go back</a>
 	<h1>Result Of Analysed Data	 of <?php echo "'".$res->stockName."'" ?></h1>
 	
 	<hr>
